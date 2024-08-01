@@ -1,2 +1,2 @@
 # rpocDB
-Repository for conserved region of rpoc genes from various microbes in Allison E Mann's rpoCDB
+Repository for Conserved Regions of rpoC Genes from Various Microbes in Allison E. Mann's rpoCDB
